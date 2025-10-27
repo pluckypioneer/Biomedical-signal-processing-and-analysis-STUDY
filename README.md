@@ -1,5 +1,13 @@
 # Biomedical-signal-processing-and-analysis-STUDY
 My Biomedical signal processing and analysis Note
 
+## Navigation
+
+### Ebook: [Book](/Book)
+
+### PPT: [DOCS](/Docs)
+
+### NOtes:[notes_PDF](/Note)
+
 ![https://github.com/user-attachments/assets/12e8da35-8336-48df-af40-b9225ae1fa24](https://github.com/pluckypioneer/Biomedical-signal-processing-and-analysis-Note/blob/main/Image/NotebookLM%20Mind%20Map.jpg?raw=true)
 
